@@ -23,12 +23,4 @@ public class MaxSumNoTwoAdjecent {
 		return (incl> excl) ? incl : excl;
 	}
 	
-	/**
-	 * @param arr
-	 */
-	private static void printArray(int[] arr) {
-		for (int i : arr) {
-			System.out.println(i);
-		}
-	}
 }
