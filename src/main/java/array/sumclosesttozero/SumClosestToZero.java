@@ -1,4 +1,4 @@
-package SumClosestToZero;
+package main.java.array.sumclosesttozero;
 
 /**
  * @Desc 1.Min requirement is to have min 2 elements
